@@ -1,0 +1,30 @@
+Problema#1
+
+4) ¿Quién padece diarrea?
+tiene_sintoma(P, diarrea).
+
+5) ¿Y quién está cansado? 
+tiene_sintoma(P, cansancio).
+
+6) ¿Hay algún fármaco que alivie a Pedro? 
+deberia_tomar(pedro, F).
+
+7) ¿Hay algún síntoma que compartan Juan y María?
+tiene_sintoma(juan, S), tiene_sintoma(maria, S).
+
+
+Problema#2
+Roque ¿puede trabajar para comercio exterior?
+puedetrabajar(comercioExterior, roque).
+
+2) Ana ¿puede trabajar para comercio 
+exterior? 
+Lucía ¿puede trabajar para comercio exterior? 
+Roque ¿puede trabajar para contador? 
+Roque ¿puede trabajar para ventas? 
+Lucía ¿puede trabajar para ventas? 
+
+
+
+
+
